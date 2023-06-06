@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-## Run Project: ### Frontend : Open terminal and go to root directory which is "mern-task-parent-child-transactions", then type in terminal "npm install" and after that type "npm start" 
+## Run Project: 
+### Frontend : Open terminal and go to root directory which is "mern-task-parent-child-transactions", then type in terminal "npm install" and after that type "npm start" 
 
 ### Backend: Open another terminal and go to root directory which is "mern-task-parent-child-transactions", then type in terminal "cd backend" and then type "npm install" and then type "nodemon index.jx" 
 
